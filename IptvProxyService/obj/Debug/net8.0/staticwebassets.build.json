@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gi4rbetoKJaHjsdPtjjqL4UP9uP+Q1UvyVrwOST1zzc=",
+  "Source": "IptvProxyService",
+  "BasePath": "_content/IptvProxyService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

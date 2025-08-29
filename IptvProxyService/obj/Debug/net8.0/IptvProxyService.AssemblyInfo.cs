@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IptvProxyService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6fc541076ec8ecdaf4eea78d2ce9a23af4827ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("IptvProxyService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IptvProxyService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
