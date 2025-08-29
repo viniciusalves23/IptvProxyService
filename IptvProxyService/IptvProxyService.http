@@ -1,0 +1,6 @@
+@IptvProxyService_HostAddress = http://localhost:5231
+
+GET {{IptvProxyService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
